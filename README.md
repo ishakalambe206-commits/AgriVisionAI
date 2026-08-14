@@ -57,6 +57,8 @@ This repository includes a **working interactive prototype** (`agrivision_protot
 ### Run it locally
 Just download `agrivision_prototype.html` and open it in any browser — no installation or server required.
 
+### Vedio Presentation Link : https://youtu.be/1yGpw6NA98E
+
 ## 📈 Feasibility & Impact
 
 - Uses free, official government datasets (Agmarknet, data.gov.in)
