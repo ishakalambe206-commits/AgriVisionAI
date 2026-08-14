@@ -17,6 +17,8 @@ Problem Statement ID: `skh005` | Theme: Agriculture | Category: Software
 
 ## 💡 Our Solution
 
+https://ishakalambe206-commits.github.io/AgriVisionAI/
+
 AgriVision AI analyzes historical mandi prices, seasonal/festival demand patterns, and transport costs to answer one question farmers actually care about:
 
 > **"Should I sell today, or wait? And which mandi should I go to?"**
