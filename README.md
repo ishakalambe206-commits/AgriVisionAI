@@ -56,8 +56,8 @@ This repository includes a **working interactive prototype** (`agrivision_protot
 
 > ⚠️ **Note on data:** The prototype currently runs on a synthetic demo dataset (30 days × 3 crops × 3 mandis) modeled on real Agmarknet price behavior, since live data collection during the hackathon window was limited. The decision engine — trend analysis, transport-cost-adjusted profit calculation, and sell/wait logic — is fully functional and built to plug directly into live Agmarknet/eNAM/data.gov.in feeds without any architectural changes.
 
-### Run it locally
-Just download `agrivision_prototype.html` and open it in any browser — no installation or server required.
+### Can Run it locally
+Just download `index.html` and open it in any browser — no installation or server required.
 
 ### Vedio Presentation Link : https://youtu.be/1yGpw6NA98E
 
