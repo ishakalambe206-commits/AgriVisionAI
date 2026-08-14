@@ -1,0 +1,721 @@
+Crop,Mandi,Distance_km,Region,Date,Price_Rs_per_quintal
+Onion,Kopargaon,5,"Ahmednagar dist. (home mandi)",2026-07-15,1885.95
+Onion,Kopargaon,5,"Ahmednagar dist. (home mandi)",2026-07-16,1869.16
+Onion,Kopargaon,5,"Ahmednagar dist. (home mandi)",2026-07-17,1867.94
+Onion,Kopargaon,5,"Ahmednagar dist. (home mandi)",2026-07-18,1872.23
+Onion,Kopargaon,5,"Ahmednagar dist. (home mandi)",2026-07-19,1872.36
+Onion,Kopargaon,5,"Ahmednagar dist. (home mandi)",2026-07-20,1853.79
+Onion,Kopargaon,5,"Ahmednagar dist. (home mandi)",2026-07-21,1877.40
+Onion,Kopargaon,5,"Ahmednagar dist. (home mandi)",2026-07-22,1866.37
+Onion,Kopargaon,5,"Ahmednagar dist. (home mandi)",2026-07-23,1897.61
+Onion,Kopargaon,5,"Ahmednagar dist. (home mandi)",2026-07-24,1898.30
+Onion,Kopargaon,5,"Ahmednagar dist. (home mandi)",2026-07-25,1881.65
+Onion,Kopargaon,5,"Ahmednagar dist. (home mandi)",2026-07-26,1877.79
+Onion,Kopargaon,5,"Ahmednagar dist. (home mandi)",2026-07-27,1861.07
+Onion,Kopargaon,5,"Ahmednagar dist. (home mandi)",2026-07-28,1883.53
+Onion,Kopargaon,5,"Ahmednagar dist. (home mandi)",2026-07-29,1892.49
+Onion,Kopargaon,5,"Ahmednagar dist. (home mandi)",2026-07-30,1892.14
+Onion,Kopargaon,5,"Ahmednagar dist. (home mandi)",2026-07-31,1874.32
+Onion,Kopargaon,5,"Ahmednagar dist. (home mandi)",2026-08-01,1862.03
+Onion,Kopargaon,5,"Ahmednagar dist. (home mandi)",2026-08-02,1864.92
+Onion,Kopargaon,5,"Ahmednagar dist. (home mandi)",2026-08-03,1874.73
+Onion,Kopargaon,5,"Ahmednagar dist. (home mandi)",2026-08-04,1869.49
+Onion,Kopargaon,5,"Ahmednagar dist. (home mandi)",2026-08-05,1887.85
+Onion,Kopargaon,5,"Ahmednagar dist. (home mandi)",2026-08-06,1896.72
+Onion,Kopargaon,5,"Ahmednagar dist. (home mandi)",2026-08-07,1923.47
+Onion,Kopargaon,5,"Ahmednagar dist. (home mandi)",2026-08-08,1918.91
+Onion,Kopargaon,5,"Ahmednagar dist. (home mandi)",2026-08-09,1906.21
+Onion,Kopargaon,5,"Ahmednagar dist. (home mandi)",2026-08-10,1925.96
+Onion,Kopargaon,5,"Ahmednagar dist. (home mandi)",2026-08-11,1929.68
+Onion,Kopargaon,5,"Ahmednagar dist. (home mandi)",2026-08-12,1942.72
+Onion,Kopargaon,5,"Ahmednagar dist. (home mandi)",2026-08-13,1954.00
+Onion,Ahmednagar,48,"North Maharashtra",2026-07-15,1912.56
+Onion,Ahmednagar,48,"North Maharashtra",2026-07-16,1924.69
+Onion,Ahmednagar,48,"North Maharashtra",2026-07-17,1928.66
+Onion,Ahmednagar,48,"North Maharashtra",2026-07-18,1960.75
+Onion,Ahmednagar,48,"North Maharashtra",2026-07-19,1975.65
+Onion,Ahmednagar,48,"North Maharashtra",2026-07-20,1990.63
+Onion,Ahmednagar,48,"North Maharashtra",2026-07-21,2024.45
+Onion,Ahmednagar,48,"North Maharashtra",2026-07-22,2020.15
+Onion,Ahmednagar,48,"North Maharashtra",2026-07-23,2034.88
+Onion,Ahmednagar,48,"North Maharashtra",2026-07-24,2036.48
+Onion,Ahmednagar,48,"North Maharashtra",2026-07-25,2019.83
+Onion,Ahmednagar,48,"North Maharashtra",2026-07-26,2038.46
+Onion,Ahmednagar,48,"North Maharashtra",2026-07-27,2028.80
+Onion,Ahmednagar,48,"North Maharashtra",2026-07-28,2054.71
+Onion,Ahmednagar,48,"North Maharashtra",2026-07-29,2055.90
+Onion,Ahmednagar,48,"North Maharashtra",2026-07-30,2083.22
+Onion,Ahmednagar,48,"North Maharashtra",2026-07-31,2110.78
+Onion,Ahmednagar,48,"North Maharashtra",2026-08-01,2111.05
+Onion,Ahmednagar,48,"North Maharashtra",2026-08-02,2137.51
+Onion,Ahmednagar,48,"North Maharashtra",2026-08-03,2126.50
+Onion,Ahmednagar,48,"North Maharashtra",2026-08-04,2116.21
+Onion,Ahmednagar,48,"North Maharashtra",2026-08-05,2120.10
+Onion,Ahmednagar,48,"North Maharashtra",2026-08-06,2113.48
+Onion,Ahmednagar,48,"North Maharashtra",2026-08-07,2112.64
+Onion,Ahmednagar,48,"North Maharashtra",2026-08-08,2121.66
+Onion,Ahmednagar,48,"North Maharashtra",2026-08-09,2140.31
+Onion,Ahmednagar,48,"North Maharashtra",2026-08-10,2152.86
+Onion,Ahmednagar,48,"North Maharashtra",2026-08-11,2135.17
+Onion,Ahmednagar,48,"North Maharashtra",2026-08-12,2158.49
+Onion,Ahmednagar,48,"North Maharashtra",2026-08-13,2182.67
+Onion,Nashik,85,"North Maharashtra — Lasalgaon onion hub",2026-07-15,2049.93
+Onion,Nashik,85,"North Maharashtra — Lasalgaon onion hub",2026-07-16,2061.41
+Onion,Nashik,85,"North Maharashtra — Lasalgaon onion hub",2026-07-17,2041.51
+Onion,Nashik,85,"North Maharashtra — Lasalgaon onion hub",2026-07-18,2027.54
+Onion,Nashik,85,"North Maharashtra — Lasalgaon onion hub",2026-07-19,2008.17
+Onion,Nashik,85,"North Maharashtra — Lasalgaon onion hub",2026-07-20,1992.59
+Onion,Nashik,85,"North Maharashtra — Lasalgaon onion hub",2026-07-21,1989.17
+Onion,Nashik,85,"North Maharashtra — Lasalgaon onion hub",2026-07-22,2013.48
+Onion,Nashik,85,"North Maharashtra — Lasalgaon onion hub",2026-07-23,2000.70
+Onion,Nashik,85,"North Maharashtra — Lasalgaon onion hub",2026-07-24,1997.12
+Onion,Nashik,85,"North Maharashtra — Lasalgaon onion hub",2026-07-25,1981.72
+Onion,Nashik,85,"North Maharashtra — Lasalgaon onion hub",2026-07-26,2016.52
+Onion,Nashik,85,"North Maharashtra — Lasalgaon onion hub",2026-07-27,2021.47
+Onion,Nashik,85,"North Maharashtra — Lasalgaon onion hub",2026-07-28,2003.60
+Onion,Nashik,85,"North Maharashtra — Lasalgaon onion hub",2026-07-29,1995.90
+Onion,Nashik,85,"North Maharashtra — Lasalgaon onion hub",2026-07-30,1984.86
+Onion,Nashik,85,"North Maharashtra — Lasalgaon onion hub",2026-07-31,2013.38
+Onion,Nashik,85,"North Maharashtra — Lasalgaon onion hub",2026-08-01,2000.08
+Onion,Nashik,85,"North Maharashtra — Lasalgaon onion hub",2026-08-02,1980.27
+Onion,Nashik,85,"North Maharashtra — Lasalgaon onion hub",2026-08-03,2012.72
+Onion,Nashik,85,"North Maharashtra — Lasalgaon onion hub",2026-08-04,2031.26
+Onion,Nashik,85,"North Maharashtra — Lasalgaon onion hub",2026-08-05,2028.78
+Onion,Nashik,85,"North Maharashtra — Lasalgaon onion hub",2026-08-06,2048.14
+Onion,Nashik,85,"North Maharashtra — Lasalgaon onion hub",2026-08-07,2069.64
+Onion,Nashik,85,"North Maharashtra — Lasalgaon onion hub",2026-08-08,2059.59
+Onion,Nashik,85,"North Maharashtra — Lasalgaon onion hub",2026-08-09,2093.76
+Onion,Nashik,85,"North Maharashtra — Lasalgaon onion hub",2026-08-10,2118.28
+Onion,Nashik,85,"North Maharashtra — Lasalgaon onion hub",2026-08-11,2139.01
+Onion,Nashik,85,"North Maharashtra — Lasalgaon onion hub",2026-08-12,2144.66
+Onion,Nashik,85,"North Maharashtra — Lasalgaon onion hub",2026-08-13,2124.07
+Onion,Aurangabad,120,"Marathwada",2026-07-15,1861.60
+Onion,Aurangabad,120,"Marathwada",2026-07-16,1877.03
+Onion,Aurangabad,120,"Marathwada",2026-07-17,1882.32
+Onion,Aurangabad,120,"Marathwada",2026-07-18,1917.26
+Onion,Aurangabad,120,"Marathwada",2026-07-19,1918.00
+Onion,Aurangabad,120,"Marathwada",2026-07-20,1907.64
+Onion,Aurangabad,120,"Marathwada",2026-07-21,1895.92
+Onion,Aurangabad,120,"Marathwada",2026-07-22,1924.53
+Onion,Aurangabad,120,"Marathwada",2026-07-23,1931.04
+Onion,Aurangabad,120,"Marathwada",2026-07-24,1954.25
+Onion,Aurangabad,120,"Marathwada",2026-07-25,1967.09
+Onion,Aurangabad,120,"Marathwada",2026-07-26,1990.59
+Onion,Aurangabad,120,"Marathwada",2026-07-27,1996.58
+Onion,Aurangabad,120,"Marathwada",2026-07-28,2016.94
+Onion,Aurangabad,120,"Marathwada",2026-07-29,2038.68
+Onion,Aurangabad,120,"Marathwada",2026-07-30,2041.22
+Onion,Aurangabad,120,"Marathwada",2026-07-31,2071.32
+Onion,Aurangabad,120,"Marathwada",2026-08-01,2060.24
+Onion,Aurangabad,120,"Marathwada",2026-08-02,2045.27
+Onion,Aurangabad,120,"Marathwada",2026-08-03,2070.07
+Onion,Aurangabad,120,"Marathwada",2026-08-04,2092.33
+Onion,Aurangabad,120,"Marathwada",2026-08-05,2109.28
+Onion,Aurangabad,120,"Marathwada",2026-08-06,2117.24
+Onion,Aurangabad,120,"Marathwada",2026-08-07,2094.75
+Onion,Aurangabad,120,"Marathwada",2026-08-08,2111.25
+Onion,Aurangabad,120,"Marathwada",2026-08-09,2141.22
+Onion,Aurangabad,120,"Marathwada",2026-08-10,2167.35
+Onion,Aurangabad,120,"Marathwada",2026-08-11,2159.02
+Onion,Aurangabad,120,"Marathwada",2026-08-12,2152.45
+Onion,Aurangabad,120,"Marathwada",2026-08-13,2161.96
+Onion,Pune,180,"Western Maharashtra — urban demand",2026-07-15,1990.39
+Onion,Pune,180,"Western Maharashtra — urban demand",2026-07-16,2017.17
+Onion,Pune,180,"Western Maharashtra — urban demand",2026-07-17,2020.17
+Onion,Pune,180,"Western Maharashtra — urban demand",2026-07-18,2048.80
+Onion,Pune,180,"Western Maharashtra — urban demand",2026-07-19,2077.40
+Onion,Pune,180,"Western Maharashtra — urban demand",2026-07-20,2085.16
+Onion,Pune,180,"Western Maharashtra — urban demand",2026-07-21,2064.80
+Onion,Pune,180,"Western Maharashtra — urban demand",2026-07-22,2053.08
+Onion,Pune,180,"Western Maharashtra — urban demand",2026-07-23,2073.15
+Onion,Pune,180,"Western Maharashtra — urban demand",2026-07-24,2076.12
+Onion,Pune,180,"Western Maharashtra — urban demand",2026-07-25,2086.31
+Onion,Pune,180,"Western Maharashtra — urban demand",2026-07-26,2092.48
+Onion,Pune,180,"Western Maharashtra — urban demand",2026-07-27,2114.39
+Onion,Pune,180,"Western Maharashtra — urban demand",2026-07-28,2121.81
+Onion,Pune,180,"Western Maharashtra — urban demand",2026-07-29,2114.33
+Onion,Pune,180,"Western Maharashtra — urban demand",2026-07-30,2122.07
+Onion,Pune,180,"Western Maharashtra — urban demand",2026-07-31,2142.66
+Onion,Pune,180,"Western Maharashtra — urban demand",2026-08-01,2147.52
+Onion,Pune,180,"Western Maharashtra — urban demand",2026-08-02,2154.37
+Onion,Pune,180,"Western Maharashtra — urban demand",2026-08-03,2171.02
+Onion,Pune,180,"Western Maharashtra — urban demand",2026-08-04,2178.63
+Onion,Pune,180,"Western Maharashtra — urban demand",2026-08-05,2208.80
+Onion,Pune,180,"Western Maharashtra — urban demand",2026-08-06,2236.47
+Onion,Pune,180,"Western Maharashtra — urban demand",2026-08-07,2231.37
+Onion,Pune,180,"Western Maharashtra — urban demand",2026-08-08,2262.03
+Onion,Pune,180,"Western Maharashtra — urban demand",2026-08-09,2249.71
+Onion,Pune,180,"Western Maharashtra — urban demand",2026-08-10,2250.71
+Onion,Pune,180,"Western Maharashtra — urban demand",2026-08-11,2240.39
+Onion,Pune,180,"Western Maharashtra — urban demand",2026-08-12,2253.66
+Onion,Pune,180,"Western Maharashtra — urban demand",2026-08-13,2282.86
+Onion,Solapur,220,"South Maharashtra",2026-07-15,1876.23
+Onion,Solapur,220,"South Maharashtra",2026-07-16,1863.36
+Onion,Solapur,220,"South Maharashtra",2026-07-17,1896.91
+Onion,Solapur,220,"South Maharashtra",2026-07-18,1926.46
+Onion,Solapur,220,"South Maharashtra",2026-07-19,1931.27
+Onion,Solapur,220,"South Maharashtra",2026-07-20,1957.90
+Onion,Solapur,220,"South Maharashtra",2026-07-21,1958.51
+Onion,Solapur,220,"South Maharashtra",2026-07-22,1955.74
+Onion,Solapur,220,"South Maharashtra",2026-07-23,1950.30
+Onion,Solapur,220,"South Maharashtra",2026-07-24,1930.93
+Onion,Solapur,220,"South Maharashtra",2026-07-25,1933.92
+Onion,Solapur,220,"South Maharashtra",2026-07-26,1928.34
+Onion,Solapur,220,"South Maharashtra",2026-07-27,1935.61
+Onion,Solapur,220,"South Maharashtra",2026-07-28,1966.19
+Onion,Solapur,220,"South Maharashtra",2026-07-29,1999.52
+Onion,Solapur,220,"South Maharashtra",2026-07-30,1990.73
+Onion,Solapur,220,"South Maharashtra",2026-07-31,2009.87
+Onion,Solapur,220,"South Maharashtra",2026-08-01,1994.39
+Onion,Solapur,220,"South Maharashtra",2026-08-02,2022.64
+Onion,Solapur,220,"South Maharashtra",2026-08-03,2016.90
+Onion,Solapur,220,"South Maharashtra",2026-08-04,2044.27
+Onion,Solapur,220,"South Maharashtra",2026-08-05,2061.63
+Onion,Solapur,220,"South Maharashtra",2026-08-06,2041.33
+Onion,Solapur,220,"South Maharashtra",2026-08-07,2044.12
+Onion,Solapur,220,"South Maharashtra",2026-08-08,2072.18
+Onion,Solapur,220,"South Maharashtra",2026-08-09,2095.41
+Onion,Solapur,220,"South Maharashtra",2026-08-10,2119.01
+Onion,Solapur,220,"South Maharashtra",2026-08-11,2142.88
+Onion,Solapur,220,"South Maharashtra",2026-08-12,2139.81
+Onion,Solapur,220,"South Maharashtra",2026-08-13,2169.53
+Onion,Kolhapur,370,"South Maharashtra",2026-07-15,1874.49
+Onion,Kolhapur,370,"South Maharashtra",2026-07-16,1866.24
+Onion,Kolhapur,370,"South Maharashtra",2026-07-17,1851.74
+Onion,Kolhapur,370,"South Maharashtra",2026-07-18,1839.18
+Onion,Kolhapur,370,"South Maharashtra",2026-07-19,1833.55
+Onion,Kolhapur,370,"South Maharashtra",2026-07-20,1829.25
+Onion,Kolhapur,370,"South Maharashtra",2026-07-21,1817.53
+Onion,Kolhapur,370,"South Maharashtra",2026-07-22,1796.30
+Onion,Kolhapur,370,"South Maharashtra",2026-07-23,1774.44
+Onion,Kolhapur,370,"South Maharashtra",2026-07-24,1784.37
+Onion,Kolhapur,370,"South Maharashtra",2026-07-25,1787.49
+Onion,Kolhapur,370,"South Maharashtra",2026-07-26,1773.92
+Onion,Kolhapur,370,"South Maharashtra",2026-07-27,1777.72
+Onion,Kolhapur,370,"South Maharashtra",2026-07-28,1802.10
+Onion,Kolhapur,370,"South Maharashtra",2026-07-29,1807.96
+Onion,Kolhapur,370,"South Maharashtra",2026-07-30,1841.39
+Onion,Kolhapur,370,"South Maharashtra",2026-07-31,1864.91
+Onion,Kolhapur,370,"South Maharashtra",2026-08-01,1879.38
+Onion,Kolhapur,370,"South Maharashtra",2026-08-02,1876.54
+Onion,Kolhapur,370,"South Maharashtra",2026-08-03,1860.04
+Onion,Kolhapur,370,"South Maharashtra",2026-08-04,1877.23
+Onion,Kolhapur,370,"South Maharashtra",2026-08-05,1863.54
+Onion,Kolhapur,370,"South Maharashtra",2026-08-06,1886.31
+Onion,Kolhapur,370,"South Maharashtra",2026-08-07,1903.47
+Onion,Kolhapur,370,"South Maharashtra",2026-08-08,1894.25
+Onion,Kolhapur,370,"South Maharashtra",2026-08-09,1897.02
+Onion,Kolhapur,370,"South Maharashtra",2026-08-10,1898.40
+Onion,Kolhapur,370,"South Maharashtra",2026-08-11,1928.66
+Onion,Kolhapur,370,"South Maharashtra",2026-08-12,1939.52
+Onion,Kolhapur,370,"South Maharashtra",2026-08-13,1969.90
+Onion,Nagpur,590,"Vidarbha — soybean belt",2026-07-15,1837.20
+Onion,Nagpur,590,"Vidarbha — soybean belt",2026-07-16,1834.29
+Onion,Nagpur,590,"Vidarbha — soybean belt",2026-07-17,1840.32
+Onion,Nagpur,590,"Vidarbha — soybean belt",2026-07-18,1845.15
+Onion,Nagpur,590,"Vidarbha — soybean belt",2026-07-19,1835.80
+Onion,Nagpur,590,"Vidarbha — soybean belt",2026-07-20,1834.30
+Onion,Nagpur,590,"Vidarbha — soybean belt",2026-07-21,1811.84
+Onion,Nagpur,590,"Vidarbha — soybean belt",2026-07-22,1802.21
+Onion,Nagpur,590,"Vidarbha — soybean belt",2026-07-23,1810.22
+Onion,Nagpur,590,"Vidarbha — soybean belt",2026-07-24,1826.09
+Onion,Nagpur,590,"Vidarbha — soybean belt",2026-07-25,1853.98
+Onion,Nagpur,590,"Vidarbha — soybean belt",2026-07-26,1849.88
+Onion,Nagpur,590,"Vidarbha — soybean belt",2026-07-27,1838.93
+Onion,Nagpur,590,"Vidarbha — soybean belt",2026-07-28,1853.88
+Onion,Nagpur,590,"Vidarbha — soybean belt",2026-07-29,1876.14
+Onion,Nagpur,590,"Vidarbha — soybean belt",2026-07-30,1891.02
+Onion,Nagpur,590,"Vidarbha — soybean belt",2026-07-31,1915.32
+Onion,Nagpur,590,"Vidarbha — soybean belt",2026-08-01,1920.89
+Onion,Nagpur,590,"Vidarbha — soybean belt",2026-08-02,1945.33
+Onion,Nagpur,590,"Vidarbha — soybean belt",2026-08-03,1970.75
+Onion,Nagpur,590,"Vidarbha — soybean belt",2026-08-04,1998.76
+Onion,Nagpur,590,"Vidarbha — soybean belt",2026-08-05,2016.27
+Onion,Nagpur,590,"Vidarbha — soybean belt",2026-08-06,1995.19
+Onion,Nagpur,590,"Vidarbha — soybean belt",2026-08-07,1991.76
+Onion,Nagpur,590,"Vidarbha — soybean belt",2026-08-08,2014.34
+Onion,Nagpur,590,"Vidarbha — soybean belt",2026-08-09,2027.65
+Onion,Nagpur,590,"Vidarbha — soybean belt",2026-08-10,2044.19
+Onion,Nagpur,590,"Vidarbha — soybean belt",2026-08-11,2022.82
+Onion,Nagpur,590,"Vidarbha — soybean belt",2026-08-12,2043.90
+Onion,Nagpur,590,"Vidarbha — soybean belt",2026-08-13,2051.85
+Tomato,Kopargaon,5,"Ahmednagar dist. (home mandi)",2026-07-15,1438.17
+Tomato,Kopargaon,5,"Ahmednagar dist. (home mandi)",2026-07-16,1400.25
+Tomato,Kopargaon,5,"Ahmednagar dist. (home mandi)",2026-07-17,1366.61
+Tomato,Kopargaon,5,"Ahmednagar dist. (home mandi)",2026-07-18,1322.61
+Tomato,Kopargaon,5,"Ahmednagar dist. (home mandi)",2026-07-19,1378.73
+Tomato,Kopargaon,5,"Ahmednagar dist. (home mandi)",2026-07-20,1358.69
+Tomato,Kopargaon,5,"Ahmednagar dist. (home mandi)",2026-07-21,1377.85
+Tomato,Kopargaon,5,"Ahmednagar dist. (home mandi)",2026-07-22,1387.23
+Tomato,Kopargaon,5,"Ahmednagar dist. (home mandi)",2026-07-23,1326.95
+Tomato,Kopargaon,5,"Ahmednagar dist. (home mandi)",2026-07-24,1291.52
+Tomato,Kopargaon,5,"Ahmednagar dist. (home mandi)",2026-07-25,1260.36
+Tomato,Kopargaon,5,"Ahmednagar dist. (home mandi)",2026-07-26,1191.92
+Tomato,Kopargaon,5,"Ahmednagar dist. (home mandi)",2026-07-27,1158.75
+Tomato,Kopargaon,5,"Ahmednagar dist. (home mandi)",2026-07-28,1178.27
+Tomato,Kopargaon,5,"Ahmednagar dist. (home mandi)",2026-07-29,1145.61
+Tomato,Kopargaon,5,"Ahmednagar dist. (home mandi)",2026-07-30,1136.15
+Tomato,Kopargaon,5,"Ahmednagar dist. (home mandi)",2026-07-31,1081.88
+Tomato,Kopargaon,5,"Ahmednagar dist. (home mandi)",2026-08-01,1036.47
+Tomato,Kopargaon,5,"Ahmednagar dist. (home mandi)",2026-08-02,1086.55
+Tomato,Kopargaon,5,"Ahmednagar dist. (home mandi)",2026-08-03,1078.27
+Tomato,Kopargaon,5,"Ahmednagar dist. (home mandi)",2026-08-04,1133.10
+Tomato,Kopargaon,5,"Ahmednagar dist. (home mandi)",2026-08-05,1098.42
+Tomato,Kopargaon,5,"Ahmednagar dist. (home mandi)",2026-08-06,1152.66
+Tomato,Kopargaon,5,"Ahmednagar dist. (home mandi)",2026-08-07,1159.56
+Tomato,Kopargaon,5,"Ahmednagar dist. (home mandi)",2026-08-08,1159.26
+Tomato,Kopargaon,5,"Ahmednagar dist. (home mandi)",2026-08-09,1104.96
+Tomato,Kopargaon,5,"Ahmednagar dist. (home mandi)",2026-08-10,1100.07
+Tomato,Kopargaon,5,"Ahmednagar dist. (home mandi)",2026-08-11,1120.22
+Tomato,Kopargaon,5,"Ahmednagar dist. (home mandi)",2026-08-12,1168.15
+Tomato,Kopargaon,5,"Ahmednagar dist. (home mandi)",2026-08-13,1101.63
+Tomato,Ahmednagar,48,"North Maharashtra",2026-07-15,1456.26
+Tomato,Ahmednagar,48,"North Maharashtra",2026-07-16,1447.66
+Tomato,Ahmednagar,48,"North Maharashtra",2026-07-17,1436.12
+Tomato,Ahmednagar,48,"North Maharashtra",2026-07-18,1413.86
+Tomato,Ahmednagar,48,"North Maharashtra",2026-07-19,1379.99
+Tomato,Ahmednagar,48,"North Maharashtra",2026-07-20,1360.75
+Tomato,Ahmednagar,48,"North Maharashtra",2026-07-21,1462.76
+Tomato,Ahmednagar,48,"North Maharashtra",2026-07-22,1560.30
+Tomato,Ahmednagar,48,"North Maharashtra",2026-07-23,1626.30
+Tomato,Ahmednagar,48,"North Maharashtra",2026-07-24,1721.95
+Tomato,Ahmednagar,48,"North Maharashtra",2026-07-25,1796.45
+Tomato,Ahmednagar,48,"North Maharashtra",2026-07-26,1876.09
+Tomato,Ahmednagar,48,"North Maharashtra",2026-07-27,1904.00
+Tomato,Ahmednagar,48,"North Maharashtra",2026-07-28,1902.42
+Tomato,Ahmednagar,48,"North Maharashtra",2026-07-29,1884.39
+Tomato,Ahmednagar,48,"North Maharashtra",2026-07-30,1871.21
+Tomato,Ahmednagar,48,"North Maharashtra",2026-07-31,1847.03
+Tomato,Ahmednagar,48,"North Maharashtra",2026-08-01,1806.50
+Tomato,Ahmednagar,48,"North Maharashtra",2026-08-02,1769.82
+Tomato,Ahmednagar,48,"North Maharashtra",2026-08-03,1785.92
+Tomato,Ahmednagar,48,"North Maharashtra",2026-08-04,1762.49
+Tomato,Ahmednagar,48,"North Maharashtra",2026-08-05,1785.85
+Tomato,Ahmednagar,48,"North Maharashtra",2026-08-06,1759.80
+Tomato,Ahmednagar,48,"North Maharashtra",2026-08-07,1734.93
+Tomato,Ahmednagar,48,"North Maharashtra",2026-08-08,1727.72
+Tomato,Ahmednagar,48,"North Maharashtra",2026-08-09,1697.39
+Tomato,Ahmednagar,48,"North Maharashtra",2026-08-10,1680.27
+Tomato,Ahmednagar,48,"North Maharashtra",2026-08-11,1705.12
+Tomato,Ahmednagar,48,"North Maharashtra",2026-08-12,1724.78
+Tomato,Ahmednagar,48,"North Maharashtra",2026-08-13,1739.24
+Tomato,Nashik,85,"North Maharashtra — Lasalgaon onion hub",2026-07-15,1528.44
+Tomato,Nashik,85,"North Maharashtra — Lasalgaon onion hub",2026-07-16,1528.35
+Tomato,Nashik,85,"North Maharashtra — Lasalgaon onion hub",2026-07-17,1464.14
+Tomato,Nashik,85,"North Maharashtra — Lasalgaon onion hub",2026-07-18,1452.06
+Tomato,Nashik,85,"North Maharashtra — Lasalgaon onion hub",2026-07-19,1465.07
+Tomato,Nashik,85,"North Maharashtra — Lasalgaon onion hub",2026-07-20,1402.46
+Tomato,Nashik,85,"North Maharashtra — Lasalgaon onion hub",2026-07-21,1347.57
+Tomato,Nashik,85,"North Maharashtra — Lasalgaon onion hub",2026-07-22,1322.55
+Tomato,Nashik,85,"North Maharashtra — Lasalgaon onion hub",2026-07-23,1349.61
+Tomato,Nashik,85,"North Maharashtra — Lasalgaon onion hub",2026-07-24,1311.80
+Tomato,Nashik,85,"North Maharashtra — Lasalgaon onion hub",2026-07-25,1280.51
+Tomato,Nashik,85,"North Maharashtra — Lasalgaon onion hub",2026-07-26,1261.76
+Tomato,Nashik,85,"North Maharashtra — Lasalgaon onion hub",2026-07-27,1214.25
+Tomato,Nashik,85,"North Maharashtra — Lasalgaon onion hub",2026-07-28,1263.34
+Tomato,Nashik,85,"North Maharashtra — Lasalgaon onion hub",2026-07-29,1222.16
+Tomato,Nashik,85,"North Maharashtra — Lasalgaon onion hub",2026-07-30,1280.34
+Tomato,Nashik,85,"North Maharashtra — Lasalgaon onion hub",2026-07-31,1228.88
+Tomato,Nashik,85,"North Maharashtra — Lasalgaon onion hub",2026-08-01,1172.05
+Tomato,Nashik,85,"North Maharashtra — Lasalgaon onion hub",2026-08-02,1114.70
+Tomato,Nashik,85,"North Maharashtra — Lasalgaon onion hub",2026-08-03,1079.49
+Tomato,Nashik,85,"North Maharashtra — Lasalgaon onion hub",2026-08-04,1124.77
+Tomato,Nashik,85,"North Maharashtra — Lasalgaon onion hub",2026-08-05,1107.67
+Tomato,Nashik,85,"North Maharashtra — Lasalgaon onion hub",2026-08-06,1106.34
+Tomato,Nashik,85,"North Maharashtra — Lasalgaon onion hub",2026-08-07,1080.98
+Tomato,Nashik,85,"North Maharashtra — Lasalgaon onion hub",2026-08-08,1048.94
+Tomato,Nashik,85,"North Maharashtra — Lasalgaon onion hub",2026-08-09,993.71
+Tomato,Nashik,85,"North Maharashtra — Lasalgaon onion hub",2026-08-10,1005.75
+Tomato,Nashik,85,"North Maharashtra — Lasalgaon onion hub",2026-08-11,962.63
+Tomato,Nashik,85,"North Maharashtra — Lasalgaon onion hub",2026-08-12,926.01
+Tomato,Nashik,85,"North Maharashtra — Lasalgaon onion hub",2026-08-13,914.55
+Tomato,Aurangabad,120,"Marathwada",2026-07-15,1528.79
+Tomato,Aurangabad,120,"Marathwada",2026-07-16,1460.39
+Tomato,Aurangabad,120,"Marathwada",2026-07-17,1484.62
+Tomato,Aurangabad,120,"Marathwada",2026-07-18,1474.83
+Tomato,Aurangabad,120,"Marathwada",2026-07-19,1404.72
+Tomato,Aurangabad,120,"Marathwada",2026-07-20,1455.82
+Tomato,Aurangabad,120,"Marathwada",2026-07-21,1495.98
+Tomato,Aurangabad,120,"Marathwada",2026-07-22,1456.67
+Tomato,Aurangabad,120,"Marathwada",2026-07-23,1408.44
+Tomato,Aurangabad,120,"Marathwada",2026-07-24,1427.22
+Tomato,Aurangabad,120,"Marathwada",2026-07-25,1449.55
+Tomato,Aurangabad,120,"Marathwada",2026-07-26,1478.61
+Tomato,Aurangabad,120,"Marathwada",2026-07-27,1480.67
+Tomato,Aurangabad,120,"Marathwada",2026-07-28,1514.34
+Tomato,Aurangabad,120,"Marathwada",2026-07-29,1565.15
+Tomato,Aurangabad,120,"Marathwada",2026-07-30,1534.29
+Tomato,Aurangabad,120,"Marathwada",2026-07-31,1498.65
+Tomato,Aurangabad,120,"Marathwada",2026-08-01,1519.14
+Tomato,Aurangabad,120,"Marathwada",2026-08-02,1459.97
+Tomato,Aurangabad,120,"Marathwada",2026-08-03,1465.86
+Tomato,Aurangabad,120,"Marathwada",2026-08-04,1425.55
+Tomato,Aurangabad,120,"Marathwada",2026-08-05,1356.72
+Tomato,Aurangabad,120,"Marathwada",2026-08-06,1347.58
+Tomato,Aurangabad,120,"Marathwada",2026-08-07,1359.81
+Tomato,Aurangabad,120,"Marathwada",2026-08-08,1350.32
+Tomato,Aurangabad,120,"Marathwada",2026-08-09,1313.66
+Tomato,Aurangabad,120,"Marathwada",2026-08-10,1333.70
+Tomato,Aurangabad,120,"Marathwada",2026-08-11,1267.47
+Tomato,Aurangabad,120,"Marathwada",2026-08-12,1285.36
+Tomato,Aurangabad,120,"Marathwada",2026-08-13,1249.31
+Tomato,Pune,180,"Western Maharashtra — urban demand",2026-07-15,1759.83
+Tomato,Pune,180,"Western Maharashtra — urban demand",2026-07-16,1695.51
+Tomato,Pune,180,"Western Maharashtra — urban demand",2026-07-17,1681.00
+Tomato,Pune,180,"Western Maharashtra — urban demand",2026-07-18,1636.25
+Tomato,Pune,180,"Western Maharashtra — urban demand",2026-07-19,1661.40
+Tomato,Pune,180,"Western Maharashtra — urban demand",2026-07-20,1618.26
+Tomato,Pune,180,"Western Maharashtra — urban demand",2026-07-21,1587.18
+Tomato,Pune,180,"Western Maharashtra — urban demand",2026-07-22,1546.15
+Tomato,Pune,180,"Western Maharashtra — urban demand",2026-07-23,1576.29
+Tomato,Pune,180,"Western Maharashtra — urban demand",2026-07-24,1631.02
+Tomato,Pune,180,"Western Maharashtra — urban demand",2026-07-25,1585.59
+Tomato,Pune,180,"Western Maharashtra — urban demand",2026-07-26,1571.07
+Tomato,Pune,180,"Western Maharashtra — urban demand",2026-07-27,1623.97
+Tomato,Pune,180,"Western Maharashtra — urban demand",2026-07-28,1606.68
+Tomato,Pune,180,"Western Maharashtra — urban demand",2026-07-29,1664.62
+Tomato,Pune,180,"Western Maharashtra — urban demand",2026-07-30,1602.93
+Tomato,Pune,180,"Western Maharashtra — urban demand",2026-07-31,1585.95
+Tomato,Pune,180,"Western Maharashtra — urban demand",2026-08-01,1629.49
+Tomato,Pune,180,"Western Maharashtra — urban demand",2026-08-02,1688.47
+Tomato,Pune,180,"Western Maharashtra — urban demand",2026-08-03,1659.82
+Tomato,Pune,180,"Western Maharashtra — urban demand",2026-08-04,1712.89
+Tomato,Pune,180,"Western Maharashtra — urban demand",2026-08-05,1646.29
+Tomato,Pune,180,"Western Maharashtra — urban demand",2026-08-06,1625.08
+Tomato,Pune,180,"Western Maharashtra — urban demand",2026-08-07,1598.88
+Tomato,Pune,180,"Western Maharashtra — urban demand",2026-08-08,1530.73
+Tomato,Pune,180,"Western Maharashtra — urban demand",2026-08-09,1507.46
+Tomato,Pune,180,"Western Maharashtra — urban demand",2026-08-10,1452.00
+Tomato,Pune,180,"Western Maharashtra — urban demand",2026-08-11,1407.38
+Tomato,Pune,180,"Western Maharashtra — urban demand",2026-08-12,1444.93
+Tomato,Pune,180,"Western Maharashtra — urban demand",2026-08-13,1430.11
+Tomato,Solapur,220,"South Maharashtra",2026-07-15,1463.48
+Tomato,Solapur,220,"South Maharashtra",2026-07-16,1513.71
+Tomato,Solapur,220,"South Maharashtra",2026-07-17,1492.44
+Tomato,Solapur,220,"South Maharashtra",2026-07-18,1425.05
+Tomato,Solapur,220,"South Maharashtra",2026-07-19,1461.13
+Tomato,Solapur,220,"South Maharashtra",2026-07-20,1395.59
+Tomato,Solapur,220,"South Maharashtra",2026-07-21,1335.71
+Tomato,Solapur,220,"South Maharashtra",2026-07-22,1297.71
+Tomato,Solapur,220,"South Maharashtra",2026-07-23,1343.77
+Tomato,Solapur,220,"South Maharashtra",2026-07-24,1309.99
+Tomato,Solapur,220,"South Maharashtra",2026-07-25,1318.64
+Tomato,Solapur,220,"South Maharashtra",2026-07-26,1342.92
+Tomato,Solapur,220,"South Maharashtra",2026-07-27,1309.65
+Tomato,Solapur,220,"South Maharashtra",2026-07-28,1339.99
+Tomato,Solapur,220,"South Maharashtra",2026-07-29,1351.01
+Tomato,Solapur,220,"South Maharashtra",2026-07-30,1282.66
+Tomato,Solapur,220,"South Maharashtra",2026-07-31,1275.66
+Tomato,Solapur,220,"South Maharashtra",2026-08-01,1328.11
+Tomato,Solapur,220,"South Maharashtra",2026-08-02,1291.39
+Tomato,Solapur,220,"South Maharashtra",2026-08-03,1286.01
+Tomato,Solapur,220,"South Maharashtra",2026-08-04,1238.34
+Tomato,Solapur,220,"South Maharashtra",2026-08-05,1263.39
+Tomato,Solapur,220,"South Maharashtra",2026-08-06,1292.81
+Tomato,Solapur,220,"South Maharashtra",2026-08-07,1265.21
+Tomato,Solapur,220,"South Maharashtra",2026-08-08,1243.15
+Tomato,Solapur,220,"South Maharashtra",2026-08-09,1182.54
+Tomato,Solapur,220,"South Maharashtra",2026-08-10,1211.77
+Tomato,Solapur,220,"South Maharashtra",2026-08-11,1151.36
+Tomato,Solapur,220,"South Maharashtra",2026-08-12,1155.19
+Tomato,Solapur,220,"South Maharashtra",2026-08-13,1213.49
+Tomato,Kolhapur,370,"South Maharashtra",2026-07-15,1617.14
+Tomato,Kolhapur,370,"South Maharashtra",2026-07-16,1559.18
+Tomato,Kolhapur,370,"South Maharashtra",2026-07-17,1555.73
+Tomato,Kolhapur,370,"South Maharashtra",2026-07-18,1543.23
+Tomato,Kolhapur,370,"South Maharashtra",2026-07-19,1528.64
+Tomato,Kolhapur,370,"South Maharashtra",2026-07-20,1546.01
+Tomato,Kolhapur,370,"South Maharashtra",2026-07-21,1585.37
+Tomato,Kolhapur,370,"South Maharashtra",2026-07-22,1530.69
+Tomato,Kolhapur,370,"South Maharashtra",2026-07-23,1497.77
+Tomato,Kolhapur,370,"South Maharashtra",2026-07-24,1476.20
+Tomato,Kolhapur,370,"South Maharashtra",2026-07-25,1431.38
+Tomato,Kolhapur,370,"South Maharashtra",2026-07-26,1394.44
+Tomato,Kolhapur,370,"South Maharashtra",2026-07-27,1440.92
+Tomato,Kolhapur,370,"South Maharashtra",2026-07-28,1413.24
+Tomato,Kolhapur,370,"South Maharashtra",2026-07-29,1472.86
+Tomato,Kolhapur,370,"South Maharashtra",2026-07-30,1433.11
+Tomato,Kolhapur,370,"South Maharashtra",2026-07-31,1447.06
+Tomato,Kolhapur,370,"South Maharashtra",2026-08-01,1388.68
+Tomato,Kolhapur,370,"South Maharashtra",2026-08-02,1425.46
+Tomato,Kolhapur,370,"South Maharashtra",2026-08-03,1473.22
+Tomato,Kolhapur,370,"South Maharashtra",2026-08-04,1443.36
+Tomato,Kolhapur,370,"South Maharashtra",2026-08-05,1399.67
+Tomato,Kolhapur,370,"South Maharashtra",2026-08-06,1403.87
+Tomato,Kolhapur,370,"South Maharashtra",2026-08-07,1380.80
+Tomato,Kolhapur,370,"South Maharashtra",2026-08-08,1367.98
+Tomato,Kolhapur,370,"South Maharashtra",2026-08-09,1400.22
+Tomato,Kolhapur,370,"South Maharashtra",2026-08-10,1342.46
+Tomato,Kolhapur,370,"South Maharashtra",2026-08-11,1352.88
+Tomato,Kolhapur,370,"South Maharashtra",2026-08-12,1332.10
+Tomato,Kolhapur,370,"South Maharashtra",2026-08-13,1290.19
+Tomato,Nagpur,590,"Vidarbha — soybean belt",2026-07-15,1459.07
+Tomato,Nagpur,590,"Vidarbha — soybean belt",2026-07-16,1415.13
+Tomato,Nagpur,590,"Vidarbha — soybean belt",2026-07-17,1389.75
+Tomato,Nagpur,590,"Vidarbha — soybean belt",2026-07-18,1343.33
+Tomato,Nagpur,590,"Vidarbha — soybean belt",2026-07-19,1300.70
+Tomato,Nagpur,590,"Vidarbha — soybean belt",2026-07-20,1301.01
+Tomato,Nagpur,590,"Vidarbha — soybean belt",2026-07-21,1246.07
+Tomato,Nagpur,590,"Vidarbha — soybean belt",2026-07-22,1248.19
+Tomato,Nagpur,590,"Vidarbha — soybean belt",2026-07-23,1189.70
+Tomato,Nagpur,590,"Vidarbha — soybean belt",2026-07-24,1211.60
+Tomato,Nagpur,590,"Vidarbha — soybean belt",2026-07-25,1178.97
+Tomato,Nagpur,590,"Vidarbha — soybean belt",2026-07-26,1233.83
+Tomato,Nagpur,590,"Vidarbha — soybean belt",2026-07-27,1238.39
+Tomato,Nagpur,590,"Vidarbha — soybean belt",2026-07-28,1223.28
+Tomato,Nagpur,590,"Vidarbha — soybean belt",2026-07-29,1281.64
+Tomato,Nagpur,590,"Vidarbha — soybean belt",2026-07-30,1238.00
+Tomato,Nagpur,590,"Vidarbha — soybean belt",2026-07-31,1193.80
+Tomato,Nagpur,590,"Vidarbha — soybean belt",2026-08-01,1243.11
+Tomato,Nagpur,590,"Vidarbha — soybean belt",2026-08-02,1280.25
+Tomato,Nagpur,590,"Vidarbha — soybean belt",2026-08-03,1325.58
+Tomato,Nagpur,590,"Vidarbha — soybean belt",2026-08-04,1277.06
+Tomato,Nagpur,590,"Vidarbha — soybean belt",2026-08-05,1280.83
+Tomato,Nagpur,590,"Vidarbha — soybean belt",2026-08-06,1328.76
+Tomato,Nagpur,590,"Vidarbha — soybean belt",2026-08-07,1341.42
+Tomato,Nagpur,590,"Vidarbha — soybean belt",2026-08-08,1337.70
+Tomato,Nagpur,590,"Vidarbha — soybean belt",2026-08-09,1306.09
+Tomato,Nagpur,590,"Vidarbha — soybean belt",2026-08-10,1356.52
+Tomato,Nagpur,590,"Vidarbha — soybean belt",2026-08-11,1351.99
+Tomato,Nagpur,590,"Vidarbha — soybean belt",2026-08-12,1406.71
+Tomato,Nagpur,590,"Vidarbha — soybean belt",2026-08-13,1354.54
+Soyabean,Kopargaon,5,"Ahmednagar dist. (home mandi)",2026-07-15,4966.84
+Soyabean,Kopargaon,5,"Ahmednagar dist. (home mandi)",2026-07-16,4953.73
+Soyabean,Kopargaon,5,"Ahmednagar dist. (home mandi)",2026-07-17,4951.76
+Soyabean,Kopargaon,5,"Ahmednagar dist. (home mandi)",2026-07-18,4957.20
+Soyabean,Kopargaon,5,"Ahmednagar dist. (home mandi)",2026-07-19,4947.84
+Soyabean,Kopargaon,5,"Ahmednagar dist. (home mandi)",2026-07-20,4940.42
+Soyabean,Kopargaon,5,"Ahmednagar dist. (home mandi)",2026-07-21,4952.61
+Soyabean,Kopargaon,5,"Ahmednagar dist. (home mandi)",2026-07-22,4943.98
+Soyabean,Kopargaon,5,"Ahmednagar dist. (home mandi)",2026-07-23,4941.70
+Soyabean,Kopargaon,5,"Ahmednagar dist. (home mandi)",2026-07-24,4939.19
+Soyabean,Kopargaon,5,"Ahmednagar dist. (home mandi)",2026-07-25,4931.94
+Soyabean,Kopargaon,5,"Ahmednagar dist. (home mandi)",2026-07-26,4946.06
+Soyabean,Kopargaon,5,"Ahmednagar dist. (home mandi)",2026-07-27,4948.82
+Soyabean,Kopargaon,5,"Ahmednagar dist. (home mandi)",2026-07-28,4935.49
+Soyabean,Kopargaon,5,"Ahmednagar dist. (home mandi)",2026-07-29,4924.78
+Soyabean,Kopargaon,5,"Ahmednagar dist. (home mandi)",2026-07-30,4927.68
+Soyabean,Kopargaon,5,"Ahmednagar dist. (home mandi)",2026-07-31,4922.80
+Soyabean,Kopargaon,5,"Ahmednagar dist. (home mandi)",2026-08-01,4926.56
+Soyabean,Kopargaon,5,"Ahmednagar dist. (home mandi)",2026-08-02,4932.78
+Soyabean,Kopargaon,5,"Ahmednagar dist. (home mandi)",2026-08-03,4931.95
+Soyabean,Kopargaon,5,"Ahmednagar dist. (home mandi)",2026-08-04,4936.50
+Soyabean,Kopargaon,5,"Ahmednagar dist. (home mandi)",2026-08-05,4929.22
+Soyabean,Kopargaon,5,"Ahmednagar dist. (home mandi)",2026-08-06,4939.63
+Soyabean,Kopargaon,5,"Ahmednagar dist. (home mandi)",2026-08-07,4930.54
+Soyabean,Kopargaon,5,"Ahmednagar dist. (home mandi)",2026-08-08,4919.14
+Soyabean,Kopargaon,5,"Ahmednagar dist. (home mandi)",2026-08-09,4917.76
+Soyabean,Kopargaon,5,"Ahmednagar dist. (home mandi)",2026-08-10,4916.71
+Soyabean,Kopargaon,5,"Ahmednagar dist. (home mandi)",2026-08-11,4903.22
+Soyabean,Kopargaon,5,"Ahmednagar dist. (home mandi)",2026-08-12,4891.19
+Soyabean,Kopargaon,5,"Ahmednagar dist. (home mandi)",2026-08-13,4901.49
+Soyabean,Ahmednagar,48,"North Maharashtra",2026-07-15,4926.95
+Soyabean,Ahmednagar,48,"North Maharashtra",2026-07-16,4924.24
+Soyabean,Ahmednagar,48,"North Maharashtra",2026-07-17,4914.23
+Soyabean,Ahmednagar,48,"North Maharashtra",2026-07-18,4931.65
+Soyabean,Ahmednagar,48,"North Maharashtra",2026-07-19,4943.15
+Soyabean,Ahmednagar,48,"North Maharashtra",2026-07-20,4959.48
+Soyabean,Ahmednagar,48,"North Maharashtra",2026-07-21,4975.28
+Soyabean,Ahmednagar,48,"North Maharashtra",2026-07-22,4966.16
+Soyabean,Ahmednagar,48,"North Maharashtra",2026-07-23,4981.42
+Soyabean,Ahmednagar,48,"North Maharashtra",2026-07-24,4977.43
+Soyabean,Ahmednagar,48,"North Maharashtra",2026-07-25,4967.96
+Soyabean,Ahmednagar,48,"North Maharashtra",2026-07-26,4962.34
+Soyabean,Ahmednagar,48,"North Maharashtra",2026-07-27,4952.44
+Soyabean,Ahmednagar,48,"North Maharashtra",2026-07-28,4967.07
+Soyabean,Ahmednagar,48,"North Maharashtra",2026-07-29,4960.41
+Soyabean,Ahmednagar,48,"North Maharashtra",2026-07-30,4955.82
+Soyabean,Ahmednagar,48,"North Maharashtra",2026-07-31,4946.40
+Soyabean,Ahmednagar,48,"North Maharashtra",2026-08-01,4961.24
+Soyabean,Ahmednagar,48,"North Maharashtra",2026-08-02,4975.27
+Soyabean,Ahmednagar,48,"North Maharashtra",2026-08-03,4985.27
+Soyabean,Ahmednagar,48,"North Maharashtra",2026-08-04,4987.08
+Soyabean,Ahmednagar,48,"North Maharashtra",2026-08-05,4983.93
+Soyabean,Ahmednagar,48,"North Maharashtra",2026-08-06,4987.25
+Soyabean,Ahmednagar,48,"North Maharashtra",2026-08-07,5000.77
+Soyabean,Ahmednagar,48,"North Maharashtra",2026-08-08,5017.36
+Soyabean,Ahmednagar,48,"North Maharashtra",2026-08-09,5015.30
+Soyabean,Ahmednagar,48,"North Maharashtra",2026-08-10,5009.26
+Soyabean,Ahmednagar,48,"North Maharashtra",2026-08-11,5013.41
+Soyabean,Ahmednagar,48,"North Maharashtra",2026-08-12,5022.94
+Soyabean,Ahmednagar,48,"North Maharashtra",2026-08-13,5013.74
+Soyabean,Nashik,85,"North Maharashtra — Lasalgaon onion hub",2026-07-15,4911.98
+Soyabean,Nashik,85,"North Maharashtra — Lasalgaon onion hub",2026-07-16,4905.60
+Soyabean,Nashik,85,"North Maharashtra — Lasalgaon onion hub",2026-07-17,4922.43
+Soyabean,Nashik,85,"North Maharashtra — Lasalgaon onion hub",2026-07-18,4928.95
+Soyabean,Nashik,85,"North Maharashtra — Lasalgaon onion hub",2026-07-19,4914.02
+Soyabean,Nashik,85,"North Maharashtra — Lasalgaon onion hub",2026-07-20,4903.56
+Soyabean,Nashik,85,"North Maharashtra — Lasalgaon onion hub",2026-07-21,4902.70
+Soyabean,Nashik,85,"North Maharashtra — Lasalgaon onion hub",2026-07-22,4916.57
+Soyabean,Nashik,85,"North Maharashtra — Lasalgaon onion hub",2026-07-23,4908.69
+Soyabean,Nashik,85,"North Maharashtra — Lasalgaon onion hub",2026-07-24,4894.75
+Soyabean,Nashik,85,"North Maharashtra — Lasalgaon onion hub",2026-07-25,4890.83
+Soyabean,Nashik,85,"North Maharashtra — Lasalgaon onion hub",2026-07-26,4887.08
+Soyabean,Nashik,85,"North Maharashtra — Lasalgaon onion hub",2026-07-27,4890.69
+Soyabean,Nashik,85,"North Maharashtra — Lasalgaon onion hub",2026-07-28,4882.51
+Soyabean,Nashik,85,"North Maharashtra — Lasalgaon onion hub",2026-07-29,4883.03
+Soyabean,Nashik,85,"North Maharashtra — Lasalgaon onion hub",2026-07-30,4897.85
+Soyabean,Nashik,85,"North Maharashtra — Lasalgaon onion hub",2026-07-31,4887.58
+Soyabean,Nashik,85,"North Maharashtra — Lasalgaon onion hub",2026-08-01,4892.81
+Soyabean,Nashik,85,"North Maharashtra — Lasalgaon onion hub",2026-08-02,4903.40
+Soyabean,Nashik,85,"North Maharashtra — Lasalgaon onion hub",2026-08-03,4896.96
+Soyabean,Nashik,85,"North Maharashtra — Lasalgaon onion hub",2026-08-04,4902.33
+Soyabean,Nashik,85,"North Maharashtra — Lasalgaon onion hub",2026-08-05,4898.80
+Soyabean,Nashik,85,"North Maharashtra — Lasalgaon onion hub",2026-08-06,4898.34
+Soyabean,Nashik,85,"North Maharashtra — Lasalgaon onion hub",2026-08-07,4907.43
+Soyabean,Nashik,85,"North Maharashtra — Lasalgaon onion hub",2026-08-08,4921.30
+Soyabean,Nashik,85,"North Maharashtra — Lasalgaon onion hub",2026-08-09,4923.07
+Soyabean,Nashik,85,"North Maharashtra — Lasalgaon onion hub",2026-08-10,4915.79
+Soyabean,Nashik,85,"North Maharashtra — Lasalgaon onion hub",2026-08-11,4925.49
+Soyabean,Nashik,85,"North Maharashtra — Lasalgaon onion hub",2026-08-12,4927.85
+Soyabean,Nashik,85,"North Maharashtra — Lasalgaon onion hub",2026-08-13,4918.03
+Soyabean,Aurangabad,120,"Marathwada",2026-07-15,4984.37
+Soyabean,Aurangabad,120,"Marathwada",2026-07-16,4990.11
+Soyabean,Aurangabad,120,"Marathwada",2026-07-17,4981.20
+Soyabean,Aurangabad,120,"Marathwada",2026-07-18,4975.82
+Soyabean,Aurangabad,120,"Marathwada",2026-07-19,4989.05
+Soyabean,Aurangabad,120,"Marathwada",2026-07-20,4997.41
+Soyabean,Aurangabad,120,"Marathwada",2026-07-21,5009.16
+Soyabean,Aurangabad,120,"Marathwada",2026-07-22,5009.48
+Soyabean,Aurangabad,120,"Marathwada",2026-07-23,5009.40
+Soyabean,Aurangabad,120,"Marathwada",2026-07-24,4997.70
+Soyabean,Aurangabad,120,"Marathwada",2026-07-25,4983.89
+Soyabean,Aurangabad,120,"Marathwada",2026-07-26,4992.92
+Soyabean,Aurangabad,120,"Marathwada",2026-07-27,5005.36
+Soyabean,Aurangabad,120,"Marathwada",2026-07-28,4999.27
+Soyabean,Aurangabad,120,"Marathwada",2026-07-29,4998.48
+Soyabean,Aurangabad,120,"Marathwada",2026-07-30,5000.70
+Soyabean,Aurangabad,120,"Marathwada",2026-07-31,5006.22
+Soyabean,Aurangabad,120,"Marathwada",2026-08-01,4998.81
+Soyabean,Aurangabad,120,"Marathwada",2026-08-02,4984.86
+Soyabean,Aurangabad,120,"Marathwada",2026-08-03,4977.38
+Soyabean,Aurangabad,120,"Marathwada",2026-08-04,4993.05
+Soyabean,Aurangabad,120,"Marathwada",2026-08-05,4988.94
+Soyabean,Aurangabad,120,"Marathwada",2026-08-06,4985.02
+Soyabean,Aurangabad,120,"Marathwada",2026-08-07,4999.01
+Soyabean,Aurangabad,120,"Marathwada",2026-08-08,5006.51
+Soyabean,Aurangabad,120,"Marathwada",2026-08-09,5023.20
+Soyabean,Aurangabad,120,"Marathwada",2026-08-10,5035.24
+Soyabean,Aurangabad,120,"Marathwada",2026-08-11,5048.07
+Soyabean,Aurangabad,120,"Marathwada",2026-08-12,5056.40
+Soyabean,Aurangabad,120,"Marathwada",2026-08-13,5051.51
+Soyabean,Pune,180,"Western Maharashtra — urban demand",2026-07-15,4939.85
+Soyabean,Pune,180,"Western Maharashtra — urban demand",2026-07-16,4953.79
+Soyabean,Pune,180,"Western Maharashtra — urban demand",2026-07-17,4939.51
+Soyabean,Pune,180,"Western Maharashtra — urban demand",2026-07-18,4954.06
+Soyabean,Pune,180,"Western Maharashtra — urban demand",2026-07-19,4943.65
+Soyabean,Pune,180,"Western Maharashtra — urban demand",2026-07-20,4929.73
+Soyabean,Pune,180,"Western Maharashtra — urban demand",2026-07-21,4935.40
+Soyabean,Pune,180,"Western Maharashtra — urban demand",2026-07-22,4944.36
+Soyabean,Pune,180,"Western Maharashtra — urban demand",2026-07-23,4948.04
+Soyabean,Pune,180,"Western Maharashtra — urban demand",2026-07-24,4959.27
+Soyabean,Pune,180,"Western Maharashtra — urban demand",2026-07-25,4973.30
+Soyabean,Pune,180,"Western Maharashtra — urban demand",2026-07-26,4985.85
+Soyabean,Pune,180,"Western Maharashtra — urban demand",2026-07-27,5001.67
+Soyabean,Pune,180,"Western Maharashtra — urban demand",2026-07-28,4993.07
+Soyabean,Pune,180,"Western Maharashtra — urban demand",2026-07-29,4979.00
+Soyabean,Pune,180,"Western Maharashtra — urban demand",2026-07-30,4990.52
+Soyabean,Pune,180,"Western Maharashtra — urban demand",2026-07-31,5002.25
+Soyabean,Pune,180,"Western Maharashtra — urban demand",2026-08-01,4996.77
+Soyabean,Pune,180,"Western Maharashtra — urban demand",2026-08-02,4984.72
+Soyabean,Pune,180,"Western Maharashtra — urban demand",2026-08-03,4976.73
+Soyabean,Pune,180,"Western Maharashtra — urban demand",2026-08-04,4975.31
+Soyabean,Pune,180,"Western Maharashtra — urban demand",2026-08-05,4968.27
+Soyabean,Pune,180,"Western Maharashtra — urban demand",2026-08-06,4976.16
+Soyabean,Pune,180,"Western Maharashtra — urban demand",2026-08-07,4971.50
+Soyabean,Pune,180,"Western Maharashtra — urban demand",2026-08-08,4973.27
+Soyabean,Pune,180,"Western Maharashtra — urban demand",2026-08-09,4978.59
+Soyabean,Pune,180,"Western Maharashtra — urban demand",2026-08-10,4976.56
+Soyabean,Pune,180,"Western Maharashtra — urban demand",2026-08-11,4986.43
+Soyabean,Pune,180,"Western Maharashtra — urban demand",2026-08-12,4994.03
+Soyabean,Pune,180,"Western Maharashtra — urban demand",2026-08-13,4986.20
+Soyabean,Solapur,220,"South Maharashtra",2026-07-15,4948.46
+Soyabean,Solapur,220,"South Maharashtra",2026-07-16,4939.42
+Soyabean,Solapur,220,"South Maharashtra",2026-07-17,4930.60
+Soyabean,Solapur,220,"South Maharashtra",2026-07-18,4947.34
+Soyabean,Solapur,220,"South Maharashtra",2026-07-19,4947.78
+Soyabean,Solapur,220,"South Maharashtra",2026-07-20,4958.46
+Soyabean,Solapur,220,"South Maharashtra",2026-07-21,4959.19
+Soyabean,Solapur,220,"South Maharashtra",2026-07-22,4970.86
+Soyabean,Solapur,220,"South Maharashtra",2026-07-23,4986.03
+Soyabean,Solapur,220,"South Maharashtra",2026-07-24,4977.90
+Soyabean,Solapur,220,"South Maharashtra",2026-07-25,4979.23
+Soyabean,Solapur,220,"South Maharashtra",2026-07-26,4984.43
+Soyabean,Solapur,220,"South Maharashtra",2026-07-27,4994.44
+Soyabean,Solapur,220,"South Maharashtra",2026-07-28,5005.01
+Soyabean,Solapur,220,"South Maharashtra",2026-07-29,5001.71
+Soyabean,Solapur,220,"South Maharashtra",2026-07-30,4999.45
+Soyabean,Solapur,220,"South Maharashtra",2026-07-31,4987.78
+Soyabean,Solapur,220,"South Maharashtra",2026-08-01,4974.16
+Soyabean,Solapur,220,"South Maharashtra",2026-08-02,4967.50
+Soyabean,Solapur,220,"South Maharashtra",2026-08-03,4969.12
+Soyabean,Solapur,220,"South Maharashtra",2026-08-04,4982.49
+Soyabean,Solapur,220,"South Maharashtra",2026-08-05,4982.19
+Soyabean,Solapur,220,"South Maharashtra",2026-08-06,4991.56
+Soyabean,Solapur,220,"South Maharashtra",2026-08-07,4997.68
+Soyabean,Solapur,220,"South Maharashtra",2026-08-08,4993.19
+Soyabean,Solapur,220,"South Maharashtra",2026-08-09,5005.04
+Soyabean,Solapur,220,"South Maharashtra",2026-08-10,5014.14
+Soyabean,Solapur,220,"South Maharashtra",2026-08-11,5013.06
+Soyabean,Solapur,220,"South Maharashtra",2026-08-12,5017.06
+Soyabean,Solapur,220,"South Maharashtra",2026-08-13,5016.68
+Soyabean,Kolhapur,370,"South Maharashtra",2026-07-15,4923.18
+Soyabean,Kolhapur,370,"South Maharashtra",2026-07-16,4917.74
+Soyabean,Kolhapur,370,"South Maharashtra",2026-07-17,4930.13
+Soyabean,Kolhapur,370,"South Maharashtra",2026-07-18,4919.99
+Soyabean,Kolhapur,370,"South Maharashtra",2026-07-19,4915.40
+Soyabean,Kolhapur,370,"South Maharashtra",2026-07-20,4905.77
+Soyabean,Kolhapur,370,"South Maharashtra",2026-07-21,4896.86
+Soyabean,Kolhapur,370,"South Maharashtra",2026-07-22,4905.83
+Soyabean,Kolhapur,370,"South Maharashtra",2026-07-23,4921.45
+Soyabean,Kolhapur,370,"South Maharashtra",2026-07-24,4918.56
+Soyabean,Kolhapur,370,"South Maharashtra",2026-07-25,4929.66
+Soyabean,Kolhapur,370,"South Maharashtra",2026-07-26,4929.00
+Soyabean,Kolhapur,370,"South Maharashtra",2026-07-27,4934.33
+Soyabean,Kolhapur,370,"South Maharashtra",2026-07-28,4925.76
+Soyabean,Kolhapur,370,"South Maharashtra",2026-07-29,4911.93
+Soyabean,Kolhapur,370,"South Maharashtra",2026-07-30,4922.35
+Soyabean,Kolhapur,370,"South Maharashtra",2026-07-31,4923.75
+Soyabean,Kolhapur,370,"South Maharashtra",2026-08-01,4923.90
+Soyabean,Kolhapur,370,"South Maharashtra",2026-08-02,4928.08
+Soyabean,Kolhapur,370,"South Maharashtra",2026-08-03,4936.90
+Soyabean,Kolhapur,370,"South Maharashtra",2026-08-04,4936.25
+Soyabean,Kolhapur,370,"South Maharashtra",2026-08-05,4945.49
+Soyabean,Kolhapur,370,"South Maharashtra",2026-08-06,4937.93
+Soyabean,Kolhapur,370,"South Maharashtra",2026-08-07,4951.51
+Soyabean,Kolhapur,370,"South Maharashtra",2026-08-08,4959.37
+Soyabean,Kolhapur,370,"South Maharashtra",2026-08-09,4966.66
+Soyabean,Kolhapur,370,"South Maharashtra",2026-08-10,4966.52
+Soyabean,Kolhapur,370,"South Maharashtra",2026-08-11,4971.64
+Soyabean,Kolhapur,370,"South Maharashtra",2026-08-12,4969.88
+Soyabean,Kolhapur,370,"South Maharashtra",2026-08-13,4978.18
+Soyabean,Nagpur,590,"Vidarbha — soybean belt",2026-07-15,5073.33
+Soyabean,Nagpur,590,"Vidarbha — soybean belt",2026-07-16,5073.02
+Soyabean,Nagpur,590,"Vidarbha — soybean belt",2026-07-17,5071.43
+Soyabean,Nagpur,590,"Vidarbha — soybean belt",2026-07-18,5086.57
+Soyabean,Nagpur,590,"Vidarbha — soybean belt",2026-07-19,5092.41
+Soyabean,Nagpur,590,"Vidarbha — soybean belt",2026-07-20,5090.31
+Soyabean,Nagpur,590,"Vidarbha — soybean belt",2026-07-21,5106.69
+Soyabean,Nagpur,590,"Vidarbha — soybean belt",2026-07-22,5108.84
+Soyabean,Nagpur,590,"Vidarbha — soybean belt",2026-07-23,5118.73
+Soyabean,Nagpur,590,"Vidarbha — soybean belt",2026-07-24,5120.97
+Soyabean,Nagpur,590,"Vidarbha — soybean belt",2026-07-25,5124.17
+Soyabean,Nagpur,590,"Vidarbha — soybean belt",2026-07-26,5132.36
+Soyabean,Nagpur,590,"Vidarbha — soybean belt",2026-07-27,5138.03
+Soyabean,Nagpur,590,"Vidarbha — soybean belt",2026-07-28,5140.24
+Soyabean,Nagpur,590,"Vidarbha — soybean belt",2026-07-29,5155.69
+Soyabean,Nagpur,590,"Vidarbha — soybean belt",2026-07-30,5162.51
+Soyabean,Nagpur,590,"Vidarbha — soybean belt",2026-07-31,5172.01
+Soyabean,Nagpur,590,"Vidarbha — soybean belt",2026-08-01,5188.35
+Soyabean,Nagpur,590,"Vidarbha — soybean belt",2026-08-02,5175.23
+Soyabean,Nagpur,590,"Vidarbha — soybean belt",2026-08-03,5173.00
+Soyabean,Nagpur,590,"Vidarbha — soybean belt",2026-08-04,5171.13
+Soyabean,Nagpur,590,"Vidarbha — soybean belt",2026-08-05,5178.60
+Soyabean,Nagpur,590,"Vidarbha — soybean belt",2026-08-06,5172.14
+Soyabean,Nagpur,590,"Vidarbha — soybean belt",2026-08-07,5180.80
+Soyabean,Nagpur,590,"Vidarbha — soybean belt",2026-08-08,5183.29
+Soyabean,Nagpur,590,"Vidarbha — soybean belt",2026-08-09,5193.87
+Soyabean,Nagpur,590,"Vidarbha — soybean belt",2026-08-10,5185.75
+Soyabean,Nagpur,590,"Vidarbha — soybean belt",2026-08-11,5195.44
+Soyabean,Nagpur,590,"Vidarbha — soybean belt",2026-08-12,5201.24
+Soyabean,Nagpur,590,"Vidarbha — soybean belt",2026-08-13,5204.40
